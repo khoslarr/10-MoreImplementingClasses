@@ -3,7 +3,7 @@ A   Baby   class and functions that use/test it.
 
 Authors: David Mutchler, Vibha Alangar, Matt Boutell, Dave Fisher,
          Mark Hays, Amanda Stouder, Aaron Wilkin, their colleagues,
-         and Rishav Khosla.
+         and Rishav Khosla. 
 """  # DONE: 1. PUT YOUR NAME IN THE ABOVE LINE.
 
 
